@@ -1,2 +1,2 @@
 # Ruby on Rails
-Testing a HelloWorld on GitHub
+This is a new web project using Ruby on Rails to demonstrate my knowledge
